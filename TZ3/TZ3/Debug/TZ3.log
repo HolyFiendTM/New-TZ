@@ -1,0 +1,4 @@
+﻿  TZ3.cpp
+C:\Users\cosmo\source\repos\TZ3\TZ3\TZ3.cpp(17,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\cosmo\source\repos\TZ3\TZ3\TZ3.cpp(55,31): warning C4018: <: несоответствие типов со знаком и без знака
+  TZ3.vcxproj -> C:\Users\cosmo\source\repos\TZ3\Debug\TZ3.exe
